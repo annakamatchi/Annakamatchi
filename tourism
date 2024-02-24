@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toursium - Explore Your Next Adventure</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Toursium</h1>
+        <h1>Welcome to the world of Tourism</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Destinations</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <div class="hero-content">
+            <header>
+            <h2>Explore Your Next Adventure</h2>
+            <p>Discover amazing destinations and create unforgettable memories.</p>
+            <a href="#" class="btn">Book Now</a>
+            </header>
+        </div>
+    </section>
+    <section class="features">
+        <h3>Choose your dream destination</h3>
+        <div class="feature">
+            <img src="C:\Users\Lenovo\Downloads\icon1.jpg" alt="PARIS">
+            <h3>PARIS</h3>
+            <p> paris the city of love create more memories and spend ur quality time with us.</p>
+            <p>package starts from: 1,50,000 per person (includes food and accomendation)</p>
+        </div>
+        <div class="feature">
+            <img src="C:\Users\Lenovo\Downloads\icon2.jpg" alt="MALDIVES">
+            <h3>MALDIVES</h3>
+            <p>Maldives showcases the beauty of the ocean with its vibrant colours</p>
+            <p>package starts from: 75,000 per person (includs food and accomendation)</p>
+        </div> 
+        <div class="feature">
+            <img src= "C:\Users\Lenovo\Downloads\icon3.jpg" alt="RAMESHWARAM">
+            <h3>RAMESHWARAM</h3>
+            <p>Rameshwaram is known for its panbam bridge,having several islands associated with it.</p> 
+            <p>package starts from: 4,000 per person (includes food and accomendation)</p>
+        </div> 
+        <div class="feature">
+            <img src="C:\Users\Lenovo\Downloads\icon4.webp" alt="AGRA">
+            <h3>AGRA</h3>
+            <p>Taj mahal is the symbol of love.</p>
+            <p>package starts from: 20,000 per person (includes food and accomendation)</p>
+        </div> 
+        <div class="feature">
+            <img src="C:\Users\Lenovo\Downloads\icon5.avif" alt="SINGAPORE">
+            <h3>SINGAPORE</h3>
+            <p>Singapore is known for its vibrant environment.</p>
+            <p>package starts from: 37,000 per person (includes food and accomendation)</p>
+        </div> 
+        <div class="feature">
+            <img src="C:\Users\Lenovo\Downloads\icon6.jpg" alt="SHIMLA">
+            <h3>SHIMLA</h3>
+            <p>Shimla the snow covered area having greenish environment,adventurous activities.</p>
+            <p>package starts from: 25,000 per person (includes food and accomendation)</p>
+        </div> 
+
+
+    </section>
+    <footer>
+        <p>&copy; 2024 Toursium. All rights reserved.</p>
+    </footer>
+</body>
+</html>
